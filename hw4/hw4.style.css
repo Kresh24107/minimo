@@ -1,4 +1,4 @@
-.fool-content{
+.oll-page{
 	margin: 0;
 }
 
@@ -14,10 +14,11 @@
 .logo{
 	text-transform: uppercase;
 	text-decoration: none;
-	font-family: Inconsolata;
+	font-family: 'Inconsolata', monospace;
 	color: black;
 	align-items: center;
 	justify-content: flex-start;
+	font-size: 30px;
 }
 
 .logo-margin{
@@ -66,17 +67,17 @@
 	justify-content: space-between;
 	text-transform: uppercase;
 	color: #b4ad9e;
-	font-family: Ubuntu;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .style-h2{
 	color: #626262;
-	font-family: "Playfair Display";
+	font-family: 'Playfair Display', serif;
 }
 
 .text-article{
 	color: #626262;
-	font-family: "Playfair Display";
+	font-family: 'Playfair Display', serif;
 }
 
 .section-article{
@@ -106,7 +107,7 @@
 
 .sign-up-salutation{
 	color: #333333;
-	font-family: "Playfair Display";
+	font-family: 'Playfair Display', serif;
 	margin-top: 0;
 	padding-bottom: 30px;
 }
@@ -137,7 +138,7 @@
 	justify-content: center;
 	width: 150px;
 	height: 50px;
-	font-family: "Playfair Display";
+	font-family: 'Playfair Display', serif;
 	font-size: 130%;
 	color: #626262;
 	margin: 100px auto 100px auto;
